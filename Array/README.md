@@ -1,4 +1,4 @@
-# All DS Programms 
+# Array programms
 
 #### AUTHOR:
 
@@ -11,7 +11,15 @@
 
 #### BUILDING AND EXECUTING:
 
-- ##### working :
+- ##### Compiling Files:
+
+	You need gcc compiler and compile each file before executing as follows
 	
-	I have created README.md for every folder and it 
-	contains how to executes them.
+ 	gcc programm_name.c -o exeute
+
+
+- ##### Running Files:
+	
+	Run compile file as follows
+	
+	./execute
