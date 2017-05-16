@@ -21,10 +21,9 @@
 
 - #### Compiling and Executing Using Makefile:
 
-	You need gcc compiler and compile each file before executing as follows
-	
- 	 `make` : above command compile all source file into object library.
+	 `make` : above command compile all source file into object library.
 	 
 	`make clean` : make clean command clean all object files.
 
 	`./exec` : exexutes file and you can use it.
+	
