@@ -1,3 +1,4 @@
+//check array rotation in sorted left rotated array
 #include<stdio.h>
 #include<stdlib.h>
 void Check_array_roations(int *arr,int n,FILE *fp1)
