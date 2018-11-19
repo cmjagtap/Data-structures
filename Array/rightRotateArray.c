@@ -48,6 +48,6 @@ int main()
   rotateArrayReversalAlgo(array,arraySize,rotateBy);
   printf("After Rotation Array\n");
   printArray(array,arraySize);
-  
+  free(array);
   return 0;
 }
