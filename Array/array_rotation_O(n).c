@@ -46,6 +46,6 @@ int main()
   printArray(array,arraySize);
   rotateArrayReversalAlgo(array,arraySize,rotateBy);
   printArray(array,arraySize);
-  
+  free(array);
   return 0;
 }
