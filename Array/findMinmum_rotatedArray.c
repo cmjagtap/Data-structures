@@ -33,5 +33,6 @@ int main()
       scanf("%d",&array[i]);
     }
   printf("Min %d\n",findMinimumBinarySearch(array,0,arraySize-1));
+  free(array);
   return 0;
 }
