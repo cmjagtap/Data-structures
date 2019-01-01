@@ -4,6 +4,10 @@ void  Del_By_Pos(link *LIST,int POS)
   link *temp;
   int i;
   temp=LIST;
+  if(POS<1)
+  {
+	  return;
+  }
   if(POS==1)
     {
       
